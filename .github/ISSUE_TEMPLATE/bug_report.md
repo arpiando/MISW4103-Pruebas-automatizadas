@@ -22,12 +22,8 @@ Una vez se guarda el gasto, el reporte general no se actualiza.
 
 ## Evidencias
 URL1
-URL2
 
-## Contexto (Ambiente de ejecución
+## Contexto (Ambiente de ejecución)
 App version: 5.96.0
 OS: Windows 11 Pro
-Browser: Microsoft Edge
-
-## Información adicional
-Añado traza de error de la consola de firefox: https:url1
+Browser: Microsoft Edge 129.0.2792.79
